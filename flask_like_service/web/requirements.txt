@@ -1,0 +1,11 @@
+Flask==2.3.2
+SQLALchemy
+jinja2
+Flask-Migrate==2.5.3
+Flask-Script==2.0.6
+Flask-Cors
+requests
+mysqlclient
+pika==1.1.0
+flask_restful
+flask-mysqldb
